@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Node js](https://img.shields.io/badge/-node js-05122A?style=flat&logo=nodejs)&nbsp;
+![Nodejs](https://img.shields.io/badge/-nodejs-05122A?style=flat&logo=nodejs)&nbsp;
 
 
 
