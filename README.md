@@ -18,9 +18,6 @@
 
 
 
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/mayada-elsayed-b22370230/" target="_blank"></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
